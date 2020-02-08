@@ -5,6 +5,10 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import MyInfo from './Components/MyInfo';
 
+//
+//Teste GitHub
+//
+
 //Função dentro do arquivo... componente
 function MyApp() {
     return (

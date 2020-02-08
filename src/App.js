@@ -6,6 +6,10 @@ import Footer from './Components/Footer';
 import Header from './Components/Header';
 import ContactCard from './Components/ContactCard';
 
+//
+//Teste GitHub
+//
+
 
 function App() {
   return(
@@ -46,6 +50,7 @@ function App() {
   )
 }
 
+//Teste GItHub
 
 // function App() {
 //   return ( 
